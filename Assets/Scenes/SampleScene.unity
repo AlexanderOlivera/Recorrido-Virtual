@@ -10284,6 +10284,63 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7767036129073592173, guid: 9fe4cbed64f22454e878ac7ee0bd5915, type: 3}
+--- !u!1001 &485591415
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -373.4955
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0970875
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8771091787928289351, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
+      propertyPath: m_Name
+      value: FutureZen
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -4161369568681901532, guid: d4769b5cc2558d14b8af09042005afad, type: 3}
 --- !u!1 &485808614 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6073414880618036493, guid: 9fe4cbed64f22454e878ac7ee0bd5915, type: 3}
@@ -49267,3 +49324,4 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 1179130088}
   - {fileID: 539468157}
+  - {fileID: 485591415}
